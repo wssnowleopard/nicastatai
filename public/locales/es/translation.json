@@ -1,0 +1,58 @@
+{
+  "app_name": "NicaStatAI",
+  "header_title": "NicaStatAI",
+  "courses": "Cursos",
+  "about": "Acerca de",
+  "contact": "Contacto",
+  "sign_in": "Iniciar Sesión",
+  "hero_title": "Desbloquea el Poder de los Datos con <1>Python e IA</1>",
+  "hero_subtitle": "Domina la estadística y la programación moderna con nuestros cursos en línea dirigidos por expertos. Eleva tus habilidades desde conceptos fundamentales hasta aplicaciones avanzadas.",
+  "explore_courses": "Explorar Cursos",
+  "learn_more": "Aprende más",
+
+  "courses_section_title": "Nuestros Cursos",
+  "courses_section_subtitle": "Cursos seleccionados para impulsar tu carrera en tecnología.",
+  "view_details_for": "Ver detalles de {{title}}",
+  "about_this_course": "Acerca de este curso",
+  "sample_curriculum": "Currículum de ejemplo",
+  "error_loading_course_details": "Lo sentimos, no pudimos cargar los detalles del curso en este momento. Por favor intenta más tarde.",
+  "enroll_now": "Inscribirse ahora",
+  "close": "Cerrar",
+  "lang_en": "Inglés",
+  "lang_es": "Español",
+  "footer_title": "NicaStatAI",
+  "footer_rights": "© {{year}} Todos los derechos reservados.",
+  "privacy_policy": "Política de Privacidad",
+  "terms_of_service": "Términos del Servicio",
+
+  "courses_data": {
+    "1": {
+      "title": "Estadística con Python: De Cero a Experto",
+      "description": "Domina los fundamentos de la estadística y aprende a aplicarlos usando Python. Perfecto para principiantes."
+    },
+    "2": {
+      "title": "Programación Potenciada por IA",
+      "description": "Explora cómo integrar herramientas y APIs de IA de vanguardia en tu flujo de trabajo para crear aplicaciones más inteligentes."
+    },
+    "3": {
+      "title": "Fundamentos de Machine Learning",
+      "description": "Una introducción a los conceptos centrales del machine learning, desde regresión lineal hasta redes neuronales."
+    },
+    "4": {
+      "title": "Visualización Avanzada de Datos con D3",
+      "description": "Convierte conjuntos de datos complejos en visualizaciones hermosas e interactivas usando la librería D3.js."
+    },
+    "5": {
+      "title": "Deep Learning para Visión por Computadora",
+      "description": "Aprende a construir y entrenar redes neuronales profundas para clasificación de imágenes, detección de objetos y más."
+    },
+    "6": {
+      "title": "Procesamiento de Lenguaje Natural con Transformers",
+      "description": "Sumérgete en el mundo del PLN y construye potentes modelos de lenguaje usando las últimas arquitecturas transformer."
+    }
+  },
+
+  "level_beginner": "Principiante",
+  "level_intermediate": "Intermedio",
+  "level_advanced": "Avanzado"
+}

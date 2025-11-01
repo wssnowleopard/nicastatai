@@ -1,0 +1,58 @@
+{
+  "app_name": "NicaStatAI",
+  "header_title": "NicaStatAI",
+  "courses": "Courses",
+  "about": "About",
+  "contact": "Contact",
+  "sign_in": "Sign In",
+  "hero_title": "Unlock the Power of Data with <1>Python & AI</1>",
+  "hero_subtitle": "Master statistics and modern programming with our expert-led online courses. Elevate your skills from foundational concepts to advanced applications.",
+  "explore_courses": "Explore Courses",
+  "learn_more": "Learn more",
+  "footer_title": "NicaStatAI",
+  "footer_rights": "© {{year}} All Rights Reserved.",
+  "privacy_policy": "Privacy Policy",
+  "terms_of_service": "Terms of Service",
+
+  "courses_section_title": "Our Courses",
+  "courses_section_subtitle": "Hand-picked courses to boost your career in tech.",
+  "view_details_for": "View details for {{title}}",
+  "about_this_course": "About this course",
+  "sample_curriculum": "Sample Curriculum",
+  "error_loading_course_details": "Sorry, we couldn't load the course details at the moment. Please try again later.",
+  "enroll_now": "Enroll Now",
+  "close": "Close",
+  "lang_en": "English",
+  "lang_es": "Spanish",
+
+  "level_beginner": "Beginner",
+  "level_intermediate": "Intermediate",
+  "level_advanced": "Advanced",
+
+  "courses_data": {
+    "1": {
+      "title": "Statistics with Python: From Zero to Hero",
+      "description": "Master the fundamentals of statistics and learn how to apply them using Python. Perfect for beginners."
+    },
+    "2": {
+      "title": "AI-Powered Programming",
+      "description": "Explore how to integrate cutting-edge AI tools and APIs into your development workflow to build smarter applications."
+    },
+    "3": {
+      "title": "Machine Learning Fundamentals",
+      "description": "An introduction to the core concepts of machine learning, from linear regression to neural networks."
+    },
+    "4": {
+      "title": "Advanced Data Visualization with D3",
+      "description": "Turn complex datasets into beautiful, interactive visualizations using the D3.js library."
+    },
+    "5": {
+      "title": "Deep Learning for Computer Vision",
+      "description": "Learn how to build and train deep neural networks for image classification, object detection, and more."
+    },
+    "6": {
+      "title": "Natural Language Processing with Transformers",
+      "description": "Dive into the world of NLP and build powerful language models using the latest transformer architectures."
+    }
+  }
+}
